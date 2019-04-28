@@ -1,6 +1,6 @@
 # Capstone project MSBA 2019
 
-Project repository containing the iPython notebooks as supplementary support to our capstone project.
+Project repository containing the iPython notebooks as supporting documentation for our capstone project.
 
 ## Authors
 
