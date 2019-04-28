@@ -22,4 +22,4 @@ Project repository containing the iPython notebooks as supplementary support to 
 
 *[Feature importance review](https://github.com/djgmtz/ticket_yoda/blob/master/Ticket_Yoda_Feature_Importance_via_OLS.ipynb)
 
-*[Neural Net Model](https://github.com/djgmtz/ticket_yoda/blob/master/TicketYoda_NN_(Capstone_n1).ipynb)
+*[Neural Net Model](https://github.com/djgmtz/Ticket_Yoda/blob/master/Ticket_Yoda_Neural_Net_Model.ipynb)
