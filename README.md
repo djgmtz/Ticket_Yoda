@@ -12,7 +12,6 @@ Project repository containing the iPython notebooks as supplementary support to 
 
 *Martin Tobon 
 
->Pardon our French
 
 ## Content table
 
